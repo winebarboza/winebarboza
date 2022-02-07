@@ -1,4 +1,4 @@
-## Olá, seja bem vindo(a)!
+## Olá, seja bem vindo(a)! :)
 
 - 🌱 Aprendendo HTML, CSS E JavaScript.
 - 📫 Contate-me: wine.barbosa@gmail.com
