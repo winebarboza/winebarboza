@@ -1,18 +1,18 @@
-## Olá, seja bem vindo(a)! :)
+## 👻 Sobre mim
+Estudante de Desenvolvimento com foco em Front-End, me formando em Desenvolvimento de Sistemas e procurando uma oportunidade de estágio para aprender e colocar em prática o que estudo.
 
-- 🌱 Aprendendo HTML, CSS E JavaScript.
-- 📫 Contate-me: wine.barbosa@gmail.com
-- 😄 Pronomes: ela/dela
- 
-<div align="center">
-  <a href="https://github.com/winebarboza">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=winebarboza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winebarboza&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-    </div>
-<div style="display: "inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+Soft Skills
+ - Comunicação e Flexibilidade      
+ - Trabalho em Equipe 
+ - Capacidade de Concentração
+ - Produtividade e vontade de aprender
+  
+ Hard Skills
+ - Conhecimento prático em HTML
+ - Conhecimento Prático em CSS
+ - JavaScript (Praticando exercícios de lógica de Programação e aprendendo a manipular a DOM)
+ - Uso básico do Git/GitHub
+
+## ☎️ Contate-me:
+<a href = "wine.barbosa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/winebarboza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
