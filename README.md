@@ -1,5 +1,5 @@
 ## 👻 Sobre mim
-Estudante de Desenvolvimento com foco em Front-End, me formando em Desenvolvimento de Sistemas e procurando uma oportunidade de estágio para aprender e colocar em prática o que estudo.
+Estudante de programação com foco em Front-End, me formando em Desenvolvimento de Sistemas e procurando uma oportunidade para aprender e participar de uma equipe de desevolvimento e de seu dia a dia, colocando em prática tudo o que estudo.
 
 Soft Skills
  - Comunicação e Flexibilidade      
