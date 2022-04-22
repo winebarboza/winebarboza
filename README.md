@@ -2,12 +2,14 @@
 Estudante de programação com foco em Front-End, me formando em Desenvolvimento de Sistemas e procurando uma oportunidade para aprender e participar de uma equipe de desevolvimento e de seu dia a dia, colocando em prática tudo o que estudo.
 
 <h5>Soft Skills</h5>
+
  - Comunicação e Flexibilidade      
  - Trabalho em Equipe 
  - Capacidade de Concentração
  - Produtividade e vontade de aprender
   
  <h5>Hard Skills</h5>
+ 
  - Conhecimento prático em HTML
  - Conhecimento Prático em CSS
  - JavaScript (Praticando exercícios de lógica de Programação e aprendendo a manipular a DOM)
