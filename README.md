@@ -1,5 +1,5 @@
 ## 👻 Sobre mim
-Estudante de programação com foco em Front-End, me formando em Desenvolvimento de Sistemas e procurando uma oportunidade para aprender e participar de uma equipe de desevolvimento no seu dia a dia, colocando em prática tudo o que estudo.
+Estudante de programação com foco em Front-End, me formando em Desenvolvimento de Sistemas e procurando uma oportunidade para aprender e participar de uma equipe de desevolvimento no seu dia a dia e colocando em prática tudo o que estudo.
 
 <h5>Soft Skills</h5>
 
