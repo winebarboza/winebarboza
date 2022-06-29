@@ -1,6 +1,5 @@
 ## 👻 Sobre mim
-Estudante de programação atualmente focada em Front-End, me formando em Desenvolvimento de Sistemas e procurando uma oportunidade para aprender e participar de uma equipe de desevolvimento no seu dia a dia.
-
+Estudante de programação atualmente focada em Front-End.
 ## 👾 Estudando
 HTML, CSS, JavaScript e React.
 
