@@ -6,6 +6,6 @@ Conhecimento prático em <strong>HTML, CSS e Javascript</strong>.
 
 Estudando <strong>React e TypeScript</strong>.
 
-Eu acredito que a tecnologia é capaz de transformar a vida de todos nós usuários com a praticidade que ela causa diariamente na nossa rotina, é um prazer fazer parte disso pois quero proporcionar inovação, qualidade e bem estar para meu cliente através do meu trabalho.
+Eu acredito que a tecnologia é capaz de transformar a vida de todos nós usuários com a praticidade que ela causa na nossa rotina, é um prazer fazer parte disso pois quero proporcionar inovação, qualidade e bem estar para meu cliente através do meu trabalho.
     
 > Na verdade, só existe prazer no uso e no sentimento da própria força, a maior dor é a reconhecida falta de força quando ela é necessária.
