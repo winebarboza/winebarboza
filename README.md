@@ -1,8 +1,11 @@
-## 👻 Sobre mim
-Estudante de programação atualmente focada em Front-End.
-## 👾 Estudando
-HTML, CSS, JavaScript e React.
+𝐄𝐬𝐭𝐮𝐝𝐚𝐧𝐭𝐞 𝐝𝐞 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐚ç𝐚𝐨 𝐚𝐭𝐮𝐚𝐥𝐦𝐞𝐧𝐭𝐞 𝐟𝐨𝐜𝐚𝐝𝐚 𝐞𝐦 𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝.
 
-## ☎️ Contate-me:
-<a href = "mailto:wine.barbosa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/winebarboza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+Procurando ser cada dia melhor. 🤟🏻💟
+
+Conhecimento prático em <strong>HTML, CSS e Javascript</strong>.
+
+Estudando <strong>React e TypeScript</strong>.
+
+Eu acredito que a tecnologia é capaz de transformar a vida de todos nós usuários com a praticidade que ela causa diariamente na nossa rotina, é um prazer fazer parte disso pois quero proporcionar inovação, qualidade e bem estar para meu cliente através do meu trabalho.
+    
+> Na verdade, só existe prazer no uso e no sentimento da própria força, a maior dor é a reconhecida falta de força quando ela é necessária.
