@@ -4,7 +4,7 @@ Procurando ser cada dia melhor. 🤟🏻💟
 
 Conhecimento prático em <strong>HTML, CSS e Javascript</strong>.
 
-Estudando <strong>React.</strong>.
+Estudando <strong>React</strong>.
 
 Eu acredito que a tecnologia é capaz de transformar a vida de todos nós usuários com a praticidade que ela causa na nossa rotina, é um prazer fazer parte disso pois quero proporcionar inovação, qualidade e bem estar para meu cliente através do meu trabalho.
     
