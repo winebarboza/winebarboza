@@ -4,8 +4,6 @@
 
 Conhecimento prático em <strong>HTML, CSS e Javascript</strong>.
 
-Estudando <strong>ReactJS</strong> e <strong>NodeJS</strong>.
-
-Eu acredito que a tecnologia é capaz de transformar a vida de todos nós com a praticidade que ela oferece para a nossa rotina, é um prazer fazer parte disso pois quero proporcionar inovação, qualidade e bem estar para o usuário através do meu trabalho.
+Estudando <strong>ReactJS</strong>.
     
 > Na verdade, só existe prazer no uso e no sentimento da própria força, a maior dor é a reconhecida falta de força quando ela é necessária.
