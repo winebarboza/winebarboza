@@ -6,4 +6,3 @@ Conhecimento prático em <strong>HTML, CSS e Javascript</strong>.
 
 Estudando <strong>ReactJS</strong>.
     
-> Na verdade, só existe prazer no uso e no sentimento da própria força, a maior dor é a reconhecida falta de força quando ela é necessária.
