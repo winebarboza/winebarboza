@@ -2,7 +2,7 @@
 
 
 
-Conhecimento prático em <strong>HTML, CSS e Javascript</strong>.
+Conhecimento prático em <strong>HTML, CSS, Javascript e ReactJS</strong>.
 
-Estudando <strong>ReactJS</strong>.
+Estudando <strong>Java e Spring Boot</strong>.
     
