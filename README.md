@@ -1,4 +1,6 @@
-𝐄𝐬𝐭𝐮𝐝𝐚𝐧𝐭𝐞 𝐝𝐞 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐚çã𝐨 𝐚𝐭𝐮𝐚𝐥𝐦𝐞𝐧𝐭𝐞 𝐟𝐨𝐜𝐚𝐝𝐚 𝐞𝐦 Desenvolvimento Web 𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝.
+# Olá, meu nome é Wine👩🏻‍💻
+
+## Estudando Desenvolvimento Web
 
 Tecnologias que já usei em meus projetos:
 
