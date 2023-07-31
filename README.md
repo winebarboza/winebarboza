@@ -1,6 +1,6 @@
 # Olá, meu nome é Wine👩🏻‍💻
 
-## Estudando Desenvolvimento Web
+### Estudando Desenvolvimento Web e cursando ADS.
 
 Tecnologias que já usei em meus projetos:
 
