@@ -2,7 +2,7 @@
 
 ### Estudando Desenvolvimento Web e cursando ADS.
 
-Tecnologias que já usei em meus projetos:
+Tecnologias que uso em meus projetos:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,styledcomponents,materialui)](https://skillicons.dev)
 
